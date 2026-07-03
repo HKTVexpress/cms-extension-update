@@ -1,5 +1,5 @@
 {
-  "version": "0.4.9",
+  "version": "0.5.6",
   "download": "https://drive.google.com/file/d/170s700rM9rdpHsOXRUBxUGsoLeSYex-H/view?usp=drive_link",
-  "notes": "修正側欄開啟錯誤；新增 Hold-PO-until-GR 同生果3am短裝檢查；PO-Decode / Conflict-Fix 加防誤改保護"
+  "notes": "開放 Promos、Rules 手動功能、店鋪設定畀所有同事；登入更穩定"
 }
