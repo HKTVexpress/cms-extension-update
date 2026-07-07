@@ -1,5 +1,5 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.9",
   "download": "https://drive.google.com/file/d/170s700rM9rdpHsOXRUBxUGsoLeSYex-H/view?usp=drive_link",
-  "notes": "開放 Promos、Rules 手動功能、店鋪設定畀所有同事；登入更穩定"
+  "notes": "PO-Decode 新增剩餘存貨保護：16:00–18:00 自動清除 -9999，避免昨日剩餘數量於 18:00 歸零流失。"
 }
