@@ -1,5 +1,5 @@
 {
-  "version": "0.5.9",
+  "version": "0.5.12",
   "download": "https://drive.google.com/file/d/170s700rM9rdpHsOXRUBxUGsoLeSYex-H/view?usp=drive_link",
-  "notes": "PO-Decode 新增剩餘存貨保護：16:00–18:00 自動清除 -9999，避免昨日剩餘數量於 18:00 歸零流失。"
+  "notes": "新增：Short-ship guard 多時段（Fruit/Bread/Meat）＋ Christy 手動 Stop Presell（可連 Google Sheet 一鍵封 SKU）。修正：No-PO 誤封（已取消PO=0、新上架SKU）。更新提示已搬到 side panel 頂。"
 }
